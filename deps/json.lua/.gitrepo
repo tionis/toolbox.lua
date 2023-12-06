@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/actboy168/json.lua
+	branch = master
+	commit = 93dd093c872fb9e0415641eb9e7db3ce7f915d70
+	parent = aca387b3a5aedc6d818dbaf646b3cd319e044e35
+	method = merge
+	cmdver = 0.4.6
